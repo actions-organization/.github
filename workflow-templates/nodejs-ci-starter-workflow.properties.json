@@ -1,0 +1,8 @@
+{
+    "name": "Actions Workflow",
+    "description": "Actions CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "NPM Config"
+    ]
+}
